@@ -1,0 +1,9 @@
+---
+applications:
+  .:
+    name: rabbitmq-node
+    mem: 128M
+    services:
+      messagequeue:
+        type: rabbitmq3
+    instances: 1
