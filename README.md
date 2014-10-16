@@ -2,6 +2,12 @@
 
 This is a simple Node.js app that uses MySQL. 
 
+## Deploy to HP Helion
+<a href="http://localhost:3000/?repoUrl=https://github.com/Phanatic/node-env">
+![Helion  Logo](https://region-b.geo-1.objects.hpcloudsvc.com/v1/10822257696083/downloads/button.png?id=6)
+</a>
+
+
 ## Prerequisites
 - If you do not have a Stackato 3.2 instance available, please create one before
   continuing and install the Stackato CLI (http://docs.stackato.com/user/client/index.html#client) 
